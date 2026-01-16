@@ -21,14 +21,6 @@ Our experiments are conducted on Linux server with 40G A100. The code has been t
 * prettytable == 3.10.0
 * nltk == 3.8.1
 
-## Quick Start
-* To run the code:
-```
-python -u train.py --dataset book-crossing
-```
-
-This conmand will read the best hyperparameter setting of the corresponding dataset from `config` folder and languch the training process.
-
 ## Details of Important Files
 The following outlines the structure of the repository and provides a brief explanation of each file or folder:
 
