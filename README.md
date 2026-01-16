@@ -1,5 +1,5 @@
 # SEDIRec: Large Language Models-Enhanced Semantic Diffusion for User-Centric Recommendation
-This is the Torch implementation for our proposed SEDIRec, which has been accepted by WWW 2026.
+**This is the Torch implementation for our proposed SEDIRec, which has been accepted by WWW 2026.**
 
 ![framework](pics/framework.png)
 
