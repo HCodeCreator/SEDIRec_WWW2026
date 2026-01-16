@@ -44,3 +44,10 @@ To generate user interests independently, please follow the procedural steps out
 * `LLM.py`: Run LLM.py to generate user interests with DeepSeek.
 * `LLM_check.py`: Run LLM_check.py to check and fix LLM.py errors caused by network issues.
 * `Structration_User_Knowledge.py`: Run Structration_User_Knowledge.py to generate the user interest knowledge graph.
+
+## Acknowledgements
+We are particularly grateful to the authors of CIKGRec, as parts of our code implementation were derived from their work. We have cited the relevant references in our paper.
+Click to browse CIKGRec: https://ojs.aaai.org/index.php/AAAI/article/view/33284
+
+## Citation
+If you feel our work is insightful and want to use the code or cite our paper, please add the following citation to your paper references.
